@@ -1,0 +1,36 @@
+div{
+    
+    background-color: lightblue;
+    border-radius: 20px;
+    font-size: x-small;
+    border: solid black;
+    height: 600px;
+    width: 350px;
+    align-items: center;
+
+}
+
+.button1{
+    
+    background-color: blue; 
+    color: white; 
+    border-radius: 25px;
+    padding: 4px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    border: 2px;
+}
+.button2{
+    
+    background-color: green; 
+    color: white; 
+    border-radius: 25px;
+    padding: 8px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    border: 2px;
+}
